@@ -19835,3 +19835,10 @@ msgstr "Добавьте сюда ваш текст об авторских пр
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор кода"
+
+#: lms/templates/courseware/course_about.html:124
+msgid "Enroll Now"
+msgstr "Записаться"
+
+msgid "Course Summary"
+msgstr "Краткое содержание курса"
